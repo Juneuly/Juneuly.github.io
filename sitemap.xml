@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2017/03/04/hexo%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/</loc>
+    
+    <lastmod>2017-03-04T05:10:34.786Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/03/04/Hello-World-0/</loc>
     
     <lastmod>2017-03-04T03:02:02.399Z</lastmod>
