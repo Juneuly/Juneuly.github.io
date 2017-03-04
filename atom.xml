@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-04T05:47:26.382Z</updated>
+  <updated>2017-03-04T05:52:15.241Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,23 +20,14 @@
     <link href="http://yoursite.com/2017/03/04/hexo%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/"/>
     <id>http://yoursite.com/2017/03/04/hexo搭建指南/</id>
     <published>2017-03-04T05:09:16.000Z</published>
-    <updated>2017-03-04T05:47:26.382Z</updated>
+    <updated>2017-03-04T05:52:15.241Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="关于搭建hexo个人博客遇到的问题"><a href="#关于搭建hexo个人博客遇到的问题" class="headerlink" title="关于搭建hexo个人博客遇到的问题"></a>关于搭建hexo个人博客遇到的问题</h3><ol>
-<li>.执行<figure class="highlight plain"><figcaption><span>g -d```提交后出现unable to access</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">解决：</div><div class="line">```git init</div></pre></td></tr></table></figure></li>
-</ol>
-<p>把文件夹初始化成git仓库</p>
-<ol>
-<li>成功后无法执行<figure class="highlight plain"><figcaption><span>clone```</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">解决：</div><div class="line">```Git config --global http.sslVerify false</div></pre></td></tr></table></figure>
-</li>
-</ol>
-<p>当然之后还要提交hexo改变的话要先执行<br> <code>Git config --global http.sslVerify true</code></p>
+    <content type="html"><![CDATA[<h3 id="关于搭建hexo个人博客遇到的问题"><a href="#关于搭建hexo个人博客遇到的问题" class="headerlink" title="关于搭建hexo个人博客遇到的问题"></a>关于搭建hexo个人博客遇到的问题</h3><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="comment">#unable to access...</span></div><div class="line">git inti</div><div class="line">hexo g -d</div><div class="line"><span class="comment">#git clone 不能用</span></div><div class="line">Git config --<span class="keyword">global</span> http.sslVerify false</div></pre></td></tr></table></figure>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;关于搭建hexo个人博客遇到的问题&quot;&gt;&lt;a href=&quot;#关于搭建hexo个人博客遇到的问题&quot; class=&quot;headerlink&quot; title=&quot;关于搭建hexo个人博客遇到的问题&quot;&gt;&lt;/a&gt;关于搭建hexo个人博客遇到的问题&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;.执行&lt;
+      &lt;h3 id=&quot;关于搭建hexo个人博客遇到的问题&quot;&gt;&lt;a href=&quot;#关于搭建hexo个人博客遇到的问题&quot; class=&quot;headerlink&quot; title=&quot;关于搭建hexo个人博客遇到的问题&quot;&gt;&lt;/a&gt;关于搭建hexo个人博客遇到的问题&lt;/h3&gt;&lt;figure class
     
     </summary>
     
