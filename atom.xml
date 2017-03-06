@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>熊</title>
+  <subtitle>Nothing is true, everything is permitted</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-05T04:41:37.607Z</updated>
+  <updated>2017-03-06T11:50:40.108Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>wsx</name>
     
   </author>
   
@@ -20,16 +20,15 @@
     <link href="http://yoursite.com/2017/03/04/hexo%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/"/>
     <id>http://yoursite.com/2017/03/04/hexo搭建指南/</id>
     <published>2017-03-04T05:09:16.000Z</published>
-    <updated>2017-03-05T04:41:37.607Z</updated>
+    <updated>2017-03-06T11:50:40.108Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="关于搭建hexo个人博客遇到的问题"><a href="#关于搭建hexo个人博客遇到的问题" class="headerlink" title="关于搭建hexo个人博客遇到的问题"></a>关于搭建hexo个人博客遇到的问题</h3><p>###使用<code>hexo g -d</code>时unable to access…</p>
-<p>###解决：<br><code>git init</code><br><code>hexo g -d</code></p>
-<p>###<code>git clone</code> 不能用<br><code>Git config --global http.sslVerify false</code></p>
+    <content type="html"><![CDATA[<h5 id="关于搭建hexo个人博客遇到的问题"><a href="#关于搭建hexo个人博客遇到的问题" class="headerlink" title="关于搭建hexo个人博客遇到的问题"></a>关于搭建hexo个人博客遇到的问题</h5><h5 id="使用hexo-g-d时unable-to-access…"><a href="#使用hexo-g-d时unable-to-access…" class="headerlink" title="使用hexo g -d时unable to access…"></a>使用<code>hexo g -d</code>时unable to access…</h5><h5 id="解决："><a href="#解决：" class="headerlink" title="解决："></a>解决：</h5><p><code>git init</code><br><code>hexo g -d</code></p>
+<h5 id="git-clone-不能用"><a href="#git-clone-不能用" class="headerlink" title="git clone 不能用"></a><code>git clone</code> 不能用</h5><p><code>Git config --global http.sslVerify false</code></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;关于搭建hexo个人博客遇到的问题&quot;&gt;&lt;a href=&quot;#关于搭建hexo个人博客遇到的问题&quot; class=&quot;headerlink&quot; title=&quot;关于搭建hexo个人博客遇到的问题&quot;&gt;&lt;/a&gt;关于搭建hexo个人博客遇到的问题&lt;/h3&gt;&lt;p&gt;###使用&lt;code
+      &lt;h5 id=&quot;关于搭建hexo个人博客遇到的问题&quot;&gt;&lt;a href=&quot;#关于搭建hexo个人博客遇到的问题&quot; class=&quot;headerlink&quot; title=&quot;关于搭建hexo个人博客遇到的问题&quot;&gt;&lt;/a&gt;关于搭建hexo个人博客遇到的问题&lt;/h5&gt;&lt;h5 id=&quot;使用hex
     
     </summary>
     
